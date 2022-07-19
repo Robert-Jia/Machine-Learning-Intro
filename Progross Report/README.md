@@ -689,20 +689,31 @@ Scree plot to visualize this
 - [ ] Finish section 1.3, 1.4. Definitely finish them tomorrow 
 
 
-
-
-## July 16 Update: 
+## July 17 Update: 
 ### Finished Tasks: 
-- [x] d
+- [x] Finished section 1.3
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Start 1.4 tomorrow
 
-
-
-## July 16 Update: 
+## July 18 Update: 
 ### Finished Tasks: 
-- [x] d
+- [x] Half finish section 1.4
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish section 1.4
+
+## July 18 Update: 
+### Finished Tasks: 
+- [x] Half finish section 1.4
+
+### Tasks for tomorrow: 
+- [ ] Finish section 1.4
+
+
+## July 18 Update: 
+### Finished Tasks: 
+- [x] Half finish section 1.4
+
+### Tasks for tomorrow: 
+- [ ] Finish section 1.4
