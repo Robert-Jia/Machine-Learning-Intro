@@ -705,4 +705,6 @@ Scree plot to visualize this
 - [x] d
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] d
+
+
